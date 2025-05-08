@@ -1,4 +1,4 @@
-import 'package:web/web.dart' as html show window, Navigator;
+import 'package:web/web.dart' as html show Navigator, window;
 import 'package:flutter_keyboard_visibility_platform_interface/flutter_keyboard_visibility_platform_interface.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 
