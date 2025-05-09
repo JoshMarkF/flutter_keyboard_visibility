@@ -13,7 +13,7 @@ flutter:
     implements: flutter_keyboard_visibility
     platforms:
       web:
-        pluginClass: FlutterKeyboardVisibilityTempForkWeb
+        pluginClass: FlutterKeyboardVisibilityPluginWeb
         fileName: flutter_keyboard_visibility_web.dart
 
 dependencies:
@@ -22,7 +22,7 @@ dependencies:
     sdk: flutter
   flutter:
     sdk: flutter
-  web: ^1.1.0
+  web: ">=0.5.1 <2.0.0"
 
 dev_dependencies:
   pedantic: ^1.11.0
