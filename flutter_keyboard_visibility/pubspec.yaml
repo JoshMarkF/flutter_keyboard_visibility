@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.jrai.flutter_keyboard_visibility_temp_fork
+        package: com.jrai.flutter_keyboard_visibility
         pluginClass: FlutterKeyboardVisibilityTempForkPlugin
       ios:
         pluginClass: FlutterKeyboardVisibilityTempForkPlugin
